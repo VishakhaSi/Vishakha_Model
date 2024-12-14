@@ -14,11 +14,7 @@ Rheological properties such as viscosity, shear-thinning behavior, and drying ti
 - **Scalable Approach**: Designed to integrate seamlessly with historical formulation data and expand for future applications.  
 
 ## **Project Structure**  
-- **`data/`**: Contains sample datasets used for model training and testing (placeholder for proprietary data).  
-- **`notebooks/`**: Jupyter notebooks for exploratory data analysis, preprocessing, and model training.  
-- **`src/`**: Python scripts for data preprocessing, feature engineering, and model implementation.  
-- **`models/`**: Pre-trained models and configurations for Gradient Boosting Machines.  
-- **`reports/`**: Results, graphs, and validation metrics for the model.  
+- ** `paint.py**: The python code for model.   
 - **`README.md`**: Detailed project documentation.  
 
 ## **Getting Started**  
