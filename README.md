@@ -14,7 +14,7 @@ Rheological properties such as viscosity, shear-thinning behavior, and drying ti
 - **Scalable Approach**: Designed to integrate seamlessly with historical formulation data and expand for future applications.  
 
 ## **Project Structure**  
-- ** `paint.py**: The python code for model.   
+- **paint.py**: The python code for model.   
 - **`README.md`**: Detailed project documentation.  
 
 ## **Getting Started**  
