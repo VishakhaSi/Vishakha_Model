@@ -22,8 +22,8 @@ Rheological properties such as viscosity, shear-thinning behavior, and drying ti
 ### **Prerequisites**  
 To run this project,:
 - sudo apt update
-sudo apt install python3 python3-pip -y
-pip3 install numpy pandas scikit-learn streamlit
+- sudo apt install python3 python3-pip -y
+- pip3 install numpy pandas scikit-learn streamlit
 - streamlit run paint.py
 
 
